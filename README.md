@@ -34,4 +34,4 @@ For more details about the project, please refer to the documentation in the `do
 
 ## Contact
 
-For any inquiries, you can reach us via [email](mailto:example@example.com) or through our social media channels.
+For any inquiries, you can reach us via [email](osamacointechcenter@gmail.com) or through our social media channels.
